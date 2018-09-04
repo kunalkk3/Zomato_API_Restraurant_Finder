@@ -1,4 +1,4 @@
-# Restaurant-Finder-using-Zomato-API
+# Zomato-API to find restraurants
 
 It helps user to search based on the restaurant's name.
 User interacts with frontend (developed using HTML + CSS + Bootstrap + Vue.js) which forwards user request 
